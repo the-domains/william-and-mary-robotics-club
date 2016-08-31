@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[William & Mary Robotics Club]]></title>
-        <description><![CDATA[William & Mary Robotics Club]]></description>
+        <title><![CDATA[The Robotics Club of William & Mary]]></title>
+        <description><![CDATA[The Robotics Club of William & Mary]]></description>
         <link>https://thegrid.ai/william-and-mary-robotics-club/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 02:57:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 15:33:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/william-and-mary-robotics-club/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Registration Form]]></title>
+            <description><![CDATA[<article><h1>Registration Form</h1><p>Built with Typeform, the FREE online form builder that lets you create beautiful, mobile-friendly online forms, surveys & much more. Try it out now!</p><img src="https://d4z6dx8qrln4r.cloudfront.net/image-41fa44cb641705195104001a6882c489-default.jpeg"></article>]]></description>
+            <link>https://nickrance.typeform.com/to/Cz0xhL</link>
+            <guid isPermaLink="false">ced74258-4832-40ed-8825-a7318daa4815</guid>
+            <pubDate>Mon, 29 Aug 2016 15:33:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Quadcopter Test]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d73977d-4054-4f7c-99ca-442a82dfb0a5.jpg">]]></description>
