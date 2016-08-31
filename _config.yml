@@ -34,6 +34,9 @@ navigation:
   - name: Project List
     id: a448eb54-c703-449d-a078-0cfc71ce5aa5
     type: content
+  - name: Our Github
+    url: www.github.com
+    type: external
 favicon: null
 title: Beep Boop
 description: Beep Boop
