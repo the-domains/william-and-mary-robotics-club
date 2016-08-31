@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T02:57:15.000Z'
+datePublished: '2016-08-29T15:52:04.596Z'
 sourcePath: _posts/2016-08-27-quadcopter-test.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-27T02:57:14.608Z'
+dateModified: '2016-08-29T15:52:04.180Z'
 title: ''
 publisher: {}
 description: Robotics Club is fun
