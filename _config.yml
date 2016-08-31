@@ -31,9 +31,6 @@ navigation:
   - name: Register
     url: 'https://nickrance.typeform.com/to/Cz0xhL'
     type: external
-  - name: Our Github
-    url: Our Github
-    type: external
 favicon: null
 title: Beep Boop
 description: Beep Boop
