@@ -35,9 +35,6 @@ navigation:
     id: a448eb54-c703-449d-a078-0cfc71ce5aa5
     type: content
   - name: Our Github
-    url: www.github.com
-    type: external
-  - name: Our Github
     url: 'https://www.github.com'
     type: external
 favicon: null
