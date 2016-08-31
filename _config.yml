@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Nicholas Rance
+  email: nicholas.rance@gmail.com
 name: William & Mary Robotics Club
 cta:
   domain: null
@@ -29,6 +32,6 @@ navigation:
     url: 'https://nickrance.typeform.com/to/Cz0xhL'
     type: external
 favicon: null
-title: The Robotics Club of William & Mary
+title: Beep Boop
 description: Beep Boop
 purpose: []
