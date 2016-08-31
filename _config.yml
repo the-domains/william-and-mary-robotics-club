@@ -1,28 +1,4 @@
-name: William & Mary Robotics Club
-favicon: null
-layout_spectrum: 0.80081
 typography_spectrum: 0.49813
-author:
-  name: Nicholas Rance
-  email: nicholas.rance@gmail.com
-navigation:
-  - name: Register
-    url: 'https://nickrance.typeform.com/to/Cz0xhL'
-    type: external
-title: Beep Boop
-description: Beep Boop
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#053e2b'
@@ -34,4 +10,31 @@ color:
   lightness: 1
   saturation: 0.5
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.80081
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Nicholas Rance
+  email: nicholas.rance@gmail.com
+name: William & Mary Robotics Club
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Register
+    url: 'https://nickrance.typeform.com/to/Cz0xhL'
+    type: external
+  - name: Our Github
+    url: Our Github
+    type: external
+favicon: null
+title: Beep Boop
+description: Beep Boop
 purpose: []
