@@ -1,28 +1,29 @@
-name: William & Mary Robotics Club
-favicon: null
-layout_spectrum: 0.3391228273976594
-typography_spectrum: 0.20313332276418805
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.49813
+color:
+  brandColors:
+    - '#053e2b'
+    - '#f3d829'
+    - '#7c8228'
+    - '#293900'
+    - '#6c721b'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 1
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.4370547696016729
-  lightness: 0.9274128363467753
-  saturation: 0.11846146895550191
-  rhythmicContrast: 0.9804076824802905
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: William & Mary Robotics Club
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The Robotics Club of William & Mary
 purpose: []
