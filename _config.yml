@@ -22,6 +22,8 @@ analytics:
 author:
   name: Nicholas Rance
   email: nicholas.rance@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/40e722d2-eba2-47e0-96ba-e9fdc4e9155a.png
 name: William & Mary Robotics Club
 cta:
   domain: null
@@ -37,7 +39,8 @@ navigation:
   - name: Our Github
     url: 'https://www.github.com'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/75eea0e7-f356-4520-872c-ce55a34bd467.png
 title: Beep Boop
 description: Beep Boop
 purpose: []
