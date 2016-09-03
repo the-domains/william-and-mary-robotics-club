@@ -36,9 +36,6 @@ navigation:
   - name: Project List
     id: a448eb54-c703-449d-a078-0cfc71ce5aa5
     type: content
-  - name: Our Github
-    url: 'https://www.github.com'
-    type: external
   - name: FB Group
     url: 'https://www.facebook.com/groups/563778580363252/'
     type: external
