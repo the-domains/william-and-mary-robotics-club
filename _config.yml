@@ -33,15 +33,15 @@ navigation:
   - name: Register
     url: 'https://nickrance.typeform.com/to/Cz0xhL'
     type: external
+  - name: Slack Group
+    url: 'https://wmrobotics.slack.com/'
+    type: external
   - name: FB Group
     url: 'https://www.facebook.com/groups/563778580363252/'
     type: external
   - name: Project List
     id: a448eb54-c703-449d-a078-0cfc71ce5aa5
     type: content
-  - name: Slack Group
-    url: 'https://wmrobotics.slack.com/'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9200bc73-e034-46b3-949a-dc0dbbbf0c98.png
 title: ''
