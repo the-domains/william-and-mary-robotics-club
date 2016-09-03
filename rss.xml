@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Beep Boop]]></title>
-        <description><![CDATA[Beep Boop]]></description>
-        <link>https://thegrid.ai/william-and-mary-robotics-club/</link>
+        <title><![CDATA[Robotics@WM]]></title>
+        <description><![CDATA[Robotics@WM]]></description>
+        <link>http://wmrobotics.club/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 15:52:06 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/william-and-mary-robotics-club/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 18:31:09 GMT</lastBuildDate>
+        <atom:link href="http://wmrobotics.club/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Small Hall, 300 Ukrop Way, Williamsburg, VA 23185]]></title>
+            <link>https://goo.gl/maps/v8wHHioHUDU2</link>
+            <guid isPermaLink="false">5725642a-d6e5-447d-b7aa-876c9fc38e7a</guid>
+            <pubDate>Wed, 31 Aug 2016 18:31:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Generic Wallpaper]]></title>
+            <description><![CDATA[<article><h1>Generic Wallpaper</h1><p>Test Post 2</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b140b197-0538-40eb-af7a-05e4dab65f6c.jpg"></article>]]></description>
+            <link>http://wmrobotics.club/generic-wallpaper/index.html</link>
+            <guid isPermaLink="false">f87e9b53-4917-47c6-b05f-4eec97689cab</guid>
+            <pubDate>Mon, 29 Aug 2016 17:24:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Quadcopter Test]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d73977d-4054-4f7c-99ca-442a82dfb0a5.jpg">]]></description>
-            <link>https://thegrid.ai/william-and-mary-robotics-club/quadcopter-test/index.html</link>
+            <link>http://wmrobotics.club/quadcopter-test/index.html</link>
             <guid isPermaLink="false">a448eb54-c703-449d-a078-0cfc71ce5aa5</guid>
             <pubDate>Mon, 29 Aug 2016 15:52:04 GMT</pubDate>
         </item>
