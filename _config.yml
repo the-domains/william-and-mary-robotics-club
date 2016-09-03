@@ -39,6 +39,9 @@ navigation:
   - name: Our Github
     url: 'https://www.github.com'
     type: external
+  - name: FB Group
+    url: 'https://www.facebook.com/groups/563778580363252/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9200bc73-e034-46b3-949a-dc0dbbbf0c98.png
 title: ''
